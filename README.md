@@ -8,6 +8,6 @@ Questo repository contiene lo schema relazionale, il diagramma E-R e le query SQ
 - `/er-diagram/` – Diagramma Entità-Relazione (E-R)
 - `/docs/` – Documenti di supporto
 
-## Autore: Roberto Romano
+## Autore: Roberto Romano (matricola: 0312400619)
 
 Progetto a scopo accademico – Università Pegaso
