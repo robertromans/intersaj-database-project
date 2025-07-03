@@ -1,2 +1,2 @@
 # intersaj-database-project
-Schema relazionale a supporto dei servizi di InterSAJ S.r.l.
+Schema relazionale, query SQL e documentazione del progetto per la gestione dei dati aziendali di InterSAJ S.r.l.
